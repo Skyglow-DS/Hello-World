@@ -18,3 +18,6 @@
 
 `<git clone <https url>>`
 
+[Markdown Help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+[Additional Markdown Guide](https://guides.github.com/features/mastering-markdown/)
