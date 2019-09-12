@@ -48,6 +48,8 @@ This command pushes all branches to your remote repository
 
 `<git clone <https url>>`
 
+[Project outline](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
 [Markdown Help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 [Additional Markdown Guide](https://guides.github.com/features/mastering-markdown/)
