@@ -11,3 +11,10 @@
 - [] Impliment git
 - [] Master git
 
+
+## Commands
+
+### Clone 
+
+`<git clone <https url>>`
+
